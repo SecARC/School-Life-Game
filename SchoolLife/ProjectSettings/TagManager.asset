@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Hurdle
+  - enemy_bullet
+  - player_bullet
+  - atari
+  - Apple
+  - libraryexit
+  - market
+  - marketexit
+  - library
+  - KonusmaKutusu
+  - BotAdi
+  - KonusmaMetini
+  - DiyalogYoneticisi
+  - homeexit
+  - pc
+  - sleep
+  - study
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: CitiesBlack
+    uniqueID: 1896035569
+    locked: 0
+  - name: Cities
+    uniqueID: 2299488849
+    locked: 0
+  - name: Canvas
+    uniqueID: 3155034317
+    locked: 0

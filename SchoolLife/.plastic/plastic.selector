@@ -1,0 +1,3 @@
+rep "SchoolLife@School_Life_Game@cloud"
+  path "/"
+    smartbranch "/main"
